@@ -16,3 +16,9 @@
 1.  Assignment-04-Review part：复现课上代码
 2.  Assignment-04-theoretical part：理论部分
 3.  Assignment-04-programming part：编程部分
+
+## 第六次作业（1110）
+
+1. Assignment-06-Review part：复现课上代码
+2. Assignment-06-theoretical part：理论部分
+3. Assignment-06-programming part：编程部分（optional未完成）
